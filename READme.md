@@ -4,11 +4,11 @@
 **Programnév:** app  
 **Indítás:** main.py  
 
-### Leírás
+## Leírás
 Egyszerű hotel foglaláskezelő alkalmazás Pythonban, grafikus Tkinter felülettel.  
 Vendégek felvétele, listázása és mentése JSON fájlba.
 
-### Modulok és függvények
+## Modulok és függvények
 - tkinter (Label, Button, Entry)
 - json (dump, load)
 - datetime (kezeléshez)
@@ -16,8 +16,8 @@ Vendégek felvétele, listázása és mentése JSON fájlba.
   - Saját osztály: HotelAppPL
   - Saját függvény: mentes_PL()
 
-### Eseménykezelés
+## Eseménykezelés
 Gombnyomásra új foglalás mentése és megjelenítése.
 
-### Grafikus modul
+## Grafikus modul
 Tkinter alapú ablakkezelés.
