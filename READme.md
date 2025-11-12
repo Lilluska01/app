@@ -1,6 +1,7 @@
 # Mini Hotel Booking App
 
-**Hallgató:** Pletser Lilla  
+**Név:** Pletser Lilla
+**Neptun kód:** WIUDUC
 **Programnév:** app  
 **Indítás:** main.py  
 
