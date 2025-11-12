@@ -1,7 +1,9 @@
 # Mini Hotel Booking App
 
 **Név:** Pletser Lilla
+
 **Neptun kód:** WIUDUC
+
 **Indítás:** main.py  
 
 ## Leírás
