@@ -1,6 +1,5 @@
 import json
 from tkinter import *
-from datetime import datetime
 
 class HotelAppPL:
     def __init__(self, root):
