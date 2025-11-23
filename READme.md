@@ -20,14 +20,12 @@ A foglalások JSON fájlban kerülnek eltárolásra.
 - `json` - adatok mentése és betöltése fájlból
 
 ### Bemutatandó modul
-- `datetime`
+  - `datetime`
   - `datetime.now()` - aktuális dátum és idő megjelenítése
   - `datetime.strptime()` - felhasználó által beírt dátum szövegből dátumobjektummá alakítása
   - `datetime.strftime()` - dátumobjektum formázott szöveggé alakítása
-
-### Egyéb modul
-- `uuid`
-  - `uuid.uuid4()` - egyedi foglalásazonosító (ID) generálása
+  - `uuid`
+      - `uuid.uuid4()` - egyedi foglalásazonosító (ID) generálása
 
 ### Saját modul
 - `app_PL.py`  
@@ -35,7 +33,7 @@ A foglalások JSON fájlban kerülnek eltárolásra.
 
 ## Osztályok
 - `HotelAppPL`
-  - Saját osztály, nevében szerepel a hallgató monogramja (PL).
+  - Saját osztály.
 
 ## Saját függvények
 - `mentes_PL()` - új foglalás mentése, dátumellenőrzéssel és árkalkulációval
