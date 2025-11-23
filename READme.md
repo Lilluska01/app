@@ -16,18 +16,18 @@ A foglalások JSON fájlban kerülnek eltárolásra.
 ## Modulok
 
 ### Tanult modulok
-- `tkinter` – grafikus felület, eseménykezelés
-- `json` – adatok mentése és betöltése fájlból
+- `tkinter` - grafikus felület, eseménykezelés
+- `json` - adatok mentése és betöltése fájlból
 
 ### Bemutatandó modul
 - `datetime`
-  - `datetime.now()` – aktuális dátum és idő megjelenítése
-  - `datetime.strptime()` – felhasználó által beírt dátum szövegből dátumobjektummá alakítása
-  - `datetime.strftime()` – dátumobjektum formázott szöveggé alakítása
+  - `datetime.now()` - aktuális dátum és idő megjelenítése
+  - `datetime.strptime()` - felhasználó által beírt dátum szövegből dátumobjektummá alakítása
+  - `datetime.strftime()` - dátumobjektum formázott szöveggé alakítása
 
 ### Egyéb modul
 - `uuid`
-  - `uuid.uuid4()` – egyedi foglalásazonosító (ID) generálása
+  - `uuid.uuid4()` - egyedi foglalásazonosító (ID) generálása
 
 ### Saját modul
 - `app_PL.py`  
@@ -38,9 +38,9 @@ A foglalások JSON fájlban kerülnek eltárolásra.
   - Saját osztály, nevében szerepel a hallgató monogramja (PL).
 
 ## Saját függvények
-- `mentes_PL()` – új foglalás mentése, dátumellenőrzéssel és árkalkulációval
-- `listaz_PL()` – mentett foglalások listázása a szövegmezőben
-- `torles_PL()` – foglalás törlése azonosító (ID) alapján
+- `mentes_PL()` - új foglalás mentése, dátumellenőrzéssel és árkalkulációval
+- `listaz_PL()` - mentett foglalások listázása a szövegmezőben
+- `torles_PL()` - foglalás törlése azonosító (ID) alapján
 - További metódusok: `felulet()`, `frissit_ido()`, `betolt_adatok()`, `ment_adatok()`
 
 ## Eseménykezelés
