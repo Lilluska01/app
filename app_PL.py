@@ -135,6 +135,7 @@ class HotelAppPL:
         if not torlendo:
             self.output.insert(END, "Adj meg egy ID-t a törléshez.\n")
             return
+
         adatok = self.betolt_adatok()
         uj_lista = [f for f in adatok if f["id"] != torlendo]
         if len(uj_lista) == len(adatok):
