@@ -1,4 +1,4 @@
-# Mini Hotel Booking App
+# Hotel Booking App
 
 ## Hallgató
 Pletser Lilla - WIUDUC
