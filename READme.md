@@ -21,9 +21,9 @@ A foglalások JSON fájlban kerülnek eltárolásra.
 
 ### Bemutatandó modul
   - `datetime`
-  - `datetime.now()` - aktuális dátum és idő megjelenítése
-  - `datetime.strptime()` - felhasználó által beírt dátum szövegből dátumobjektummá alakítása
-  - `datetime.strftime()` - dátumobjektum formázott szöveggé alakítása
+      - `datetime.now()` - aktuális dátum és idő megjelenítése
+      - `datetime.strptime()` - felhasználó által beírt dátum szövegből dátumobjektummá alakítása
+      - `datetime.strftime()` - dátumobjektum formázott szöveggé alakítása
   - `uuid`
       - `uuid.uuid4()` - egyedi foglalásazonosító (ID) generálása
 
